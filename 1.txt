@@ -1,0 +1,2 @@
+mongodb://localhost:27017/chatgpt
+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
